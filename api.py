@@ -1,5 +1,4 @@
-import requests
-from config import API_KEY, SEARCH_URL, VIDEO_URL, MAX_RESULTS
+
 
 
 def search_videos(query):
