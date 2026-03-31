@@ -113,7 +113,7 @@ Download the project from GitHub:
 If Git is installed, run:
 
 ```
-git clone https://github.com/joshi2000156-hue/YouTube-Engagement-Timing-Analyzer.git
+git clone https://github.com/yash25bce10008-blip/YouTube-Engagement-Timing-Analyzer.git
 ```
 
 ---
