@@ -1,8 +1,4 @@
-def analyze_hourly_views(df):
 
-    hourly = df.groupby("hour")["engagement"].mean().sort_values(ascending=False)
-
-    return hourly
 
 
 def analyze_daily_views(df):
